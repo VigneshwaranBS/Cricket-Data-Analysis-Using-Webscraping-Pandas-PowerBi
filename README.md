@@ -1,1 +1,1 @@
-# Cricket-Data-Analysis-Using-Webscraping-Pandas-PowerBI
+# Cricket Data Analysis Using Webscraping Pandas PowerBI
